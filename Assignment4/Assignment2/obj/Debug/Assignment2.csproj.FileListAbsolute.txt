@@ -1,0 +1,11 @@
+C:\Users\koji\Desktop\学校\授業\IFN501 Programming Fundamentals\Assignment4\Assignment2\Assignment2\bin\Debug\Assignment2.exe.config
+C:\Users\koji\Desktop\学校\授業\IFN501 Programming Fundamentals\Assignment4\Assignment2\Assignment2\bin\Debug\Assignment2.exe
+C:\Users\koji\Desktop\学校\授業\IFN501 Programming Fundamentals\Assignment4\Assignment2\Assignment2\bin\Debug\Assignment2.pdb
+C:\Users\koji\Desktop\学校\授業\IFN501 Programming Fundamentals\Assignment4\Assignment2\Assignment2\obj\Debug\Assignment2.csprojResolveAssemblyReference.cache
+C:\Users\koji\Desktop\学校\授業\IFN501 Programming Fundamentals\Assignment4\Assignment2\Assignment2\obj\Debug\Assignment2.FormCreateCatalogue.resources
+C:\Users\koji\Desktop\学校\授業\IFN501 Programming Fundamentals\Assignment4\Assignment2\Assignment2\obj\Debug\Assignment2.Properties.Resources.resources
+C:\Users\koji\Desktop\学校\授業\IFN501 Programming Fundamentals\Assignment4\Assignment2\Assignment2\obj\Debug\Assignment2.csproj.GenerateResource.Cache
+C:\Users\koji\Desktop\学校\授業\IFN501 Programming Fundamentals\Assignment4\Assignment2\Assignment2\obj\Debug\Assignment2.exe
+C:\Users\koji\Desktop\学校\授業\IFN501 Programming Fundamentals\Assignment4\Assignment2\Assignment2\obj\Debug\Assignment2.pdb
+C:\Users\koji\Desktop\学校\授業\IFN501 Programming Fundamentals\Assignment4\Assignment2\Assignment2\obj\Debug\Assignment2.FormMain.resources
+C:\Users\koji\Desktop\学校\授業\IFN501 Programming Fundamentals\Assignment4\Assignment2\Assignment2\obj\Debug\Assignment2.FormAddProduct.resources

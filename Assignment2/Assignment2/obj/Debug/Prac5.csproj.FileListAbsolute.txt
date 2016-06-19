@@ -1,0 +1,8 @@
+C:\Users\koji\Desktop\学校\授業\IFN501 Programming Fundamentals\Prac\Prac5\Prac5\Prac5\bin\Debug\Prac5.exe.config
+C:\Users\koji\Desktop\学校\授業\IFN501 Programming Fundamentals\Prac\Prac5\Prac5\Prac5\bin\Debug\Prac5.exe
+C:\Users\koji\Desktop\学校\授業\IFN501 Programming Fundamentals\Prac\Prac5\Prac5\Prac5\bin\Debug\Prac5.pdb
+C:\Users\koji\Desktop\学校\授業\IFN501 Programming Fundamentals\Prac\Prac5\Prac5\Prac5\obj\Debug\Prac5.csprojResolveAssemblyReference.cache
+C:\Users\koji\Desktop\学校\授業\IFN501 Programming Fundamentals\Prac\Prac5\Prac5\Prac5\obj\Debug\Prac5.exe
+C:\Users\koji\Desktop\学校\授業\IFN501 Programming Fundamentals\Prac\Prac5\Prac5\Prac5\obj\Debug\Prac5.pdb
+C:\Users\koji\Desktop\学校\授業\IFN501 Programming Fundamentals\Assignment2\Prac5\bin\Debug\Prac5.exe.config
+C:\Users\koji\Desktop\学校\授業\IFN501 Programming Fundamentals\Assignment2\Prac5\obj\Debug\Prac5.exe

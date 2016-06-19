@@ -1,0 +1,6 @@
+C:\Users\koji\Desktop\学校\授業\IFN501 Programming Fundamentals\Assignment1\IFN501Assignment1\IFN501Assignment1\bin\Debug\IFN501Assignment1.exe.config
+C:\Users\koji\Desktop\学校\授業\IFN501 Programming Fundamentals\Assignment1\IFN501Assignment1\IFN501Assignment1\bin\Debug\IFN501Assignment1.exe
+C:\Users\koji\Desktop\学校\授業\IFN501 Programming Fundamentals\Assignment1\IFN501Assignment1\IFN501Assignment1\bin\Debug\IFN501Assignment1.pdb
+C:\Users\koji\Desktop\学校\授業\IFN501 Programming Fundamentals\Assignment1\IFN501Assignment1\IFN501Assignment1\obj\Debug\IFN501Assignment1.csprojResolveAssemblyReference.cache
+C:\Users\koji\Desktop\学校\授業\IFN501 Programming Fundamentals\Assignment1\IFN501Assignment1\IFN501Assignment1\obj\Debug\IFN501Assignment1.exe
+C:\Users\koji\Desktop\学校\授業\IFN501 Programming Fundamentals\Assignment1\IFN501Assignment1\IFN501Assignment1\obj\Debug\IFN501Assignment1.pdb
